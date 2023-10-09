@@ -1,7 +1,8 @@
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQG6T92gjjtBKg/profile-displaybackgroundimage-shrink_350_1400/0/1674153278110?e=1701302400&v=beta&t=dMEnW0zgTRFnWyBnHXLhiHffhfQ5WPgYPijlUP4vB0Q)
+
 <h3 align="center">
 Java Developer
 </h3>
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQG6T92gjjtBKg/profile-displaybackgroundimage-shrink_350_1400/0/1674153278110?e=1701302400&v=beta&t=dMEnW0zgTRFnWyBnHXLhiHffhfQ5WPgYPijlUP4vB0Q)
 
 ## 👔 About Me
 Hey! 🖖 Nice to see you. I'm Denizhan, a Back-end developer from Turkey, Ankara currently living in. I am keen on Java
