@@ -22,10 +22,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denizhanaydinli&" alt="denizhanaydinli" /></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denizhanaydinli/denizhanaydinli/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denizhanaydinli/denizhanaydinli/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/denizhanaydinli/denizhanaydinli/output/github-contribution-grid-snake.svg">
-</picture>
-
-![snake gif](https://github.com/denizhanaydinli/denizhanaydinli/blob/output/github-contribution-grid-snake.gif)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/denizhan-aydinli) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:denizhanaydinli@gmail.com)
