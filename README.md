@@ -28,4 +28,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/denizhanaydinli/denizhanaydinli/output/github-contribution-grid-snake.svg">
 </picture>
 
-![snake gif](https://github.com/CagatayAkkas/denizhanaydinli/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/denizhanaydinli/denizhanaydinli/blob/output/github-contribution-grid-snake.gif)
